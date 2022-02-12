@@ -1,0 +1,53 @@
+{
+    "PERSONAL INFO":[
+        "JACQUELINE BERMUNDO",
+        "#1503, Riego Hill, San Pablo, Laguna",
+        "0912-605-4829",
+        "cjbrmnd@gmail.com" 
+    ],
+    "OBJECTIVE":[
+        "OBJECTIVES:",
+        "-To pursue a job opportunity in a competitive environment.",
+        "-To expand my knowledge and boundaries in this field of work.",
+        "-To work efficiently and provide a good quality of work."
+    ],
+    "PERSONAL INFORMATION" : [
+        "PERSONAL DATA",
+        "Date of Birth: July 13, 1995",
+        "Civil Status: Single",
+        "Age:27",
+        "Place of Birth:Pateros, Metro Manila",
+        "Citizenship: Filipino",
+        "Religion: Christian"
+    ],
+    "EDUCATIONAL BACKGROUND" : [ 
+        "EDUCATIONAL BACKGROUND",
+            "TERTIARY EDUCATION",
+                " School: Polytechnic University of the Philippines",
+                " Degree: Bachelor of Science in Computer Engineering",
+                " School Year: 2014-2018",
+            "SECONDARY EDUCATION ", 
+                " School: San Pedro Relocation Center National High School",
+                " School Year: 2008-2012",
+            "ELEMENTARY EDUCATION",
+                " School: Laguna Resttlement Community School",
+                " School Year: 2004-2008"
+    ],
+    "WORK EXPERIENCE" : [
+        "WORK EXPERIENCE",
+        "Embedded Systems Computer Engineer",
+        "-Company Name: KZS Technology",
+        "-Employment Period: 2018/07-2021/03"
+    ],
+    "SKILLS" : [
+        "SKILLS",
+        "-Artificial Intelligence (AI) & Machine Learning (ML)",
+        "-Database Programming",
+        "-Deep Learning for Java (DL4J) toolkit",
+        "-Computational Research & Development",
+        "-Edge Computing",
+        "-Classification Algorithims"
+
+    ]
+
+}
