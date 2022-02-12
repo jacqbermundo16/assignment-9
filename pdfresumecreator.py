@@ -130,6 +130,6 @@ for m in skills:
     s6_ = m[6]
     pdf.cell(200,5, txt = s6_, ln=1, align='L')
 # add image: set location and size
-
+pdf.image('img.jpg',150, 15, w=45)
 #save as pdf
 pdf.output('BERMUNDO_JACQUELINE.pdf')
