@@ -9,6 +9,8 @@ pdf.add_page()
 # set font size and style
 pdf.set_font('Arial','B', size=16, ) 
 
+pdf.cell(200,6, txt = " ", ln=1, align='L')
+
 # open and read the json file
 data = open('cvdetails.json')
 jsonData = data.read()
@@ -130,6 +132,6 @@ for m in skills:
     s6_ = m[6]
     pdf.cell(200,5, txt = s6_, ln=1, align='L')
 # add image: set location and size
-pdf.image('img.jpg',150, 15, w=45)
+pdf.image('img.jpg',165, 15, w=30)
 #save as pdf
 pdf.output('BERMUNDO_JACQUELINE.pdf')
